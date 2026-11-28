@@ -4,6 +4,7 @@ export const games: Game[] = [
   { name: '棕色塵埃2', status: 'active', platforms: ['mobile', 'pc'], icon: 'bd2.webp' },
   { name: 'hololive Dreams', status: 'active', platforms: ['mobile', 'pc'], icon: 'hd.webp' },
   { name: 'BanG Dream! 交織的樂章', status: 'active', platforms: ['mobile'], icon: 'bdon.webp' },
+  { name: 'ホロじゃん', status: 'active', platforms: ['mobile'], icon: 'holojan.webp' },
   { name: '魔靈召喚：天空之役', status: 'semi-active', platforms: ['mobile', 'pc'], icon: 'sw.webp' },
   {
     name: 'osu!',
